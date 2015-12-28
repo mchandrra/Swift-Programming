@@ -1,0 +1,2 @@
+swiftc file.swift (to compile)
+./file (to run)
